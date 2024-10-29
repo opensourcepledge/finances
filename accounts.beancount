@@ -1,0 +1,36 @@
+option "title" "Open Source Pledge Accounts"
+option "operating_currency" "USD"
+
+* Commodities
+
+1792-01-01 commodity USD
+    name: "US Dollar"
+    export: "CASH"
+
+0800-01-01 commodity GBP
+    name: "Pound sterling"
+
+* Sources of Income
+
+2024-10-28 open Income:Sentry USD
+
+* Assets
+
+2024-04-04 open Assets:Main USD
+
+2024-10-28 * "Deposit"
+    Assets:Main 60000.00 USD
+    Income:Sentry
+
+2024-10-25 ! "Peony Software #3" "Reimbursement for StickerApp order"
+    Assets:Main -201.44 USD @ GBP
+    Expenses:Vlad:Reimbursement 155.09 GBP
+
+* Expenses
+
+2024-06-26 open Expenses:Vlad:Labour
+2024-06-26 open Expenses:Vlad:Reimbursement
+
+* Prices
+
+2024-10-01 price GBP 1.30 USD
