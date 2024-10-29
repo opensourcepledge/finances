@@ -5,10 +5,9 @@ option "operating_currency" "USD"
 
 1792-01-01 commodity USD
     name: "US Dollar"
-    export: "CASH"
 
 0800-01-01 commodity GBP
-    name: "Pound sterling"
+    name: "Pound Sterling"
 
 * Sources of Income
 
