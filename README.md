@@ -17,7 +17,7 @@ The accounts are kept by Sentry. We intend to publish regular reports for transp
 ## Submitting Expenses
 
 Provided you are in [team.csv](./team.csv), to submit expenses, send an invoice to
-<ap@sentry.io>, CC-ing <chadwhitacre@sentry.io>. 
+<ap@sentry.io>, cc'ing <chadwhitacre@sentry.io>. Specify "Due on receipt" to be paid promptly.
 
 Labor costs should be based on an hourly rate. Hours spent should be tracked using one invoice line item per task. The
 tasks do not have to be extremely granular, but it is good to know approximately which costs are associated with which
