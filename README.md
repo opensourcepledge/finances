@@ -22,7 +22,7 @@ To submit expenses, [open an issue][new-issue], apply the “expense” label to
 
 Labour costs should be based on an hourly rate. Hours spent should be tracked using one invoice line item per task. The
 tasks do not have to be extremely granular, but it is good to know approximately which costs are associated with which
-work.
+work. We recommend 15-minute rounding.
 
 Invoices can also contain reimbursement requests for reasonable expenses made on behalf of the Pledge (eg printing
 stickers).
