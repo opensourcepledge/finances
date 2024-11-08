@@ -33,7 +33,8 @@ As our budget is quite minimal, it is currently listed here:
 
 | Item                                          | Budgeted Amount  |
 | -------------                                 | ---------------  |
-| Physical promotional materials (stickers etc) | 5% of our budget |
+| Physical promotional materials (stickers etc) | 4% of our budget |
+| Conferences                                   | 4% of our budget |
 
 [beancount]: https://beancount.github.io/
 [new-issue]: https://github.com/opensourcepledge/finances/issues/new
