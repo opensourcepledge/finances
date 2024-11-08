@@ -18,14 +18,15 @@ The accounts are kept using [beancount] and stored in [accounts.beancount](./acc
 
 ## Submitting Expenses
 
-To submit expenses, [open an issue][new-issue], apply the “expense” label to it, and attach an invoice.
+Provided you are in [team.csv](./team.csv), to submit expenses, send an invoice to
+<ap@sentry.io>, CC-ing <chadwhitacre@sentry.io>.
 
 Labour costs should be based on an hourly rate. Hours spent should be tracked using one invoice line item per task. The
 tasks do not have to be extremely granular, but it is good to know approximately which costs are associated with which
 work. We recommend 15-minute rounding.
 
-Invoices can also contain reimbursement requests for reasonable expenses made on behalf of the Pledge (eg printing
-stickers).
+Invoices can also contain reimbursement requests for reasonable expenses made on behalf of the Pledge — printing
+stickers, perhaps attending a conference.
 
 ## Budgets
 
